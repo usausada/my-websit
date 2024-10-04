@@ -8,11 +8,11 @@ body {
 
 header {
     background: repeating-linear-gradient(
-        0deg, 
+        90deg, 
         red,
-        red 10px, 
-        white 10px,
-        white 20px
+        red 20px, 
+        white 20px,
+        white 40px
     );
     color: white;
     padding: 20px;
