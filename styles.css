@@ -23,6 +23,13 @@ main {
     padding: 20px;
 }
 
+main img{
+    width: 50%;  
+    height: auto; 
+    display: block; 
+    margin-bottom: 20px; 
+}
+
 footer {
     background: #333;
     color: white;
