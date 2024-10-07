@@ -31,16 +31,15 @@ main img{
     margin-bottom: 20px; 
 }
 
-.new-gallery {
+.gallery {
     display: flex;
     justify-content: center;
     gap: 10px;
 }
 
-.new-gallery img {
+.image {
     width: 100px;
     height: auto;
-    display: block;
 }
 
 .button {
