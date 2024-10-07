@@ -34,7 +34,7 @@ main img{
 .new-gallery {
     display: flex;
     justify-content: center;
-    gap: 10;
+    gap: 10px;
 }
 
 .new-gallery img {
