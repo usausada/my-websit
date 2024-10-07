@@ -35,7 +35,8 @@ main {
 
 @media (max-width: 768px) {
     .gallery {
-        max-width: 100%; /* スマホ画面では100%にする */
+        max-width: 100%;
+        padding: 0 10px;
     }
 }
 
