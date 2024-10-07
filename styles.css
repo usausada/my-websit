@@ -31,6 +31,18 @@ main img{
     margin-bottom: 20px; 
 }
 
+.new-gallery {
+    display: flex;
+    justify-content: center;
+    gap: 0;
+}
+
+.new-gallery img {
+    width: 100px;
+    height: auto;
+    margin-right: 5px;
+}
+
 .button {
     display: inline-block; 
     padding: 10px 20px; 
