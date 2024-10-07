@@ -24,13 +24,6 @@ main {
     margin-bottom: 40px;
 }
 
-main img{
-    width: 50%;  
-    height: auto; 
-    display: block; 
-    margin-bottom: 20px; 
-}
-
 .gallery {
     display: flex;
     justify-content: center;
@@ -41,7 +34,6 @@ main img{
 .image {
     width: 100px;
     height: auto;
-    max-width: 100%;
 }
 
 .button {
