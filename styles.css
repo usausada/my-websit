@@ -20,8 +20,8 @@ header {
 }
 
 main {
-    padding: 20px;
-    margin-bottom: 40px;
+     padding: 20px;
+     margin: 0;
 }
 
 .gallery {
@@ -29,6 +29,8 @@ main {
     justify-content: center;
     align-items: center;
     gap: 50px;
+    max-width: 800px;
+    margin: 0 auto;
 }
 
 .image {
