@@ -34,13 +34,12 @@ main img{
 .new-gallery {
     display: flex;
     justify-content: center;
-    gap: 0;
+    gap: 10;
 }
 
 .new-gallery img {
     width: 100px;
     height: auto;
-    margin-right: 5px;
 }
 
 .button {
