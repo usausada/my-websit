@@ -34,20 +34,14 @@ main img{
 .gallery {
     display: flex;
     justify-content: center;
+    align-items: center;
     gap: 10px;
 }
 
 .image {
     width: 100px;
     height: auto;
-}
-
-.existing {
     max-width: 100%;
-}
-
-.new {
-    width: 100px;
 }
 
 .button {
