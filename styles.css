@@ -46,6 +46,12 @@ main {
     margin: 0 10px;
 }
 
+@media (max-width: 768px) {
+    .image {
+        width: 80px;
+    }
+}
+
 .button {
     display: inline-block; 
     padding: 10px 20px; 
@@ -92,7 +98,9 @@ footer {
     color: white;
     text-align: center;
     padding: 10px;
-    position: relative;
+    position: fixed;
     bottom: 0;
+    left: 0;
+    right: 0;
     width: 100%;
 }
