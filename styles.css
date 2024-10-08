@@ -69,6 +69,10 @@ main {
     background-color: #c0392b;
 }
 
+.image-container {
+    text-align: center;
+}
+
 #loader {
     position: fixed;
     left: 50%;
