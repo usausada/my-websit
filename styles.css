@@ -20,7 +20,8 @@ header {
 }
 
 main {
-     padding: 20px;
+     min-height: 100vh;
+     padding: 40px;
      margin: 0;
 }
 
